@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="en" dir="ltr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Qatar Off-Plan Dashboard</title>
+  <meta name="description" content="Qatar off-plan property market: demand, supply, pricing, livability, sun, noise and residency eligibility.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Noto+Kufi+Arabic:wght@400;500;600;700&display=swap">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css">
+  <link rel="stylesheet" href="css/theme.css">
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/suncalc/1.9.0/suncalc.min.js"></script>
+</head>
+<body>
+  <header class="topbar">
+    <a class="brand" href="#/overview">
+      <span class="brand-mark" aria-hidden="true">T</span>
+      <span class="brand-text"><strong data-i18n="app.title">Qatar Off-Plan</strong><small data-i18n="app.subtitle">Market dashboard</small></span>
+    </a>
+    <nav class="mainnav" aria-label="Main">
+      <a href="#/overview" data-i18n="nav.overview">Overview</a>
+      <a href="#/areas" data-i18n="nav.areas">Areas</a>
+      <a href="#/projects" data-i18n="nav.projects">Projects</a>
+      <a href="#/compare" data-i18n="nav.compare">Compare</a>
+      <a href="#/residency" data-i18n="nav.residency">Residency</a>
+    </nav>
+    <div class="toggles">
+      <button id="langToggle" class="btn ghost" type="button" aria-label="Switch language">عربي</button>
+      <label class="switch" title="Analyst mode">
+        <input id="analystToggle" type="checkbox">
+        <span data-i18n="toggle.analyst">Analyst</span>
+      </label>
+    </div>
+  </header>
+
+  <main id="view" tabindex="-1"><div class="card empty">Loading… · جارٍ التحميل…</div></main>
+
+  <footer class="footer">
+    <p id="freshness"></p>
+    <p data-i18n="footer.disclaimer">Information only, not investment advice. Prices and rents are asking figures unless stated. Verify with the developer, Aqarat and the Ministry of Justice before any transaction.</p>
+  </footer>
+
+  <script type="module" src="js/app.js"></script>
+</body>
+</html>

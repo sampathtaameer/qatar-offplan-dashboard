@@ -1,0 +1,1466 @@
+{
+ "as_of": "2026-10-11",
+ "notes": "Developer listings from Property Finder Qatar new-projects pages. Prices are launch/starting prices; unit sizes from published floor plans. coords_note=generic: the listing uses a district centroid, not the building.",
+ "records": [
+  {
+   "id": "bliss-gardens",
+   "name_en": "Bliss Gardens Abu Hamour by Capstone Property",
+   "developer": "Capstone Property",
+   "area_id": "abu-hamour",
+   "lat": 25.23949,
+   "lng": 51.49915,
+   "status": "under_construction",
+   "handover": "2027-06",
+   "units_total": null,
+   "floors": null,
+   "unit_mix": [
+    {
+     "type": "5br",
+     "size_sqm_min": 430,
+     "size_sqm_max": 430,
+     "price_from_qar": 3900000
+    }
+   ],
+   "views": [],
+   "stock": "available",
+   "source": "Property Finder Qatar, new projects",
+   "source_url": "https://www.propertyfinder.qa/en/new-projects/capstone-property/bliss-gardens",
+   "as_of": "2026-10-11",
+   "confidence": "medium",
+   "payment_plan_en": "Standard: 10% down payment (5 Years Installment)",
+   "payment_plan_ar": "Standard: 10% دفعة أولى (5 Years Installment)"
+  },
+  {
+   "id": "bliss-gardens-muraikh-by-capstone-property",
+   "name_en": "Bliss Gardens Muraikh by Capstone Property",
+   "developer": "Capstone Property",
+   "area_id": "al-muraikh",
+   "lat": 25.28428,
+   "lng": 51.44408,
+   "status": "under_construction",
+   "handover": "2027-10",
+   "units_total": null,
+   "floors": null,
+   "unit_mix": [
+    {
+     "type": "villa",
+     "size_sqm_min": 413,
+     "size_sqm_max": 413,
+     "price_from_qar": 4000000
+    }
+   ],
+   "views": [],
+   "stock": "available",
+   "source": "Property Finder Qatar, new projects",
+   "source_url": "https://www.propertyfinder.qa/en/new-projects/capstone-property/bliss-gardens-muraikh-by-capstone-property",
+   "as_of": "2026-10-11",
+   "confidence": "medium",
+   "payment_plan_en": "Standard: 10% down payment (5 Years Installment)",
+   "payment_plan_ar": "Standard: 10% دفعة أولى (5 Years Installment)"
+  },
+  {
+   "id": "villa-verde",
+   "name_en": "Villa Verde Residence",
+   "developer": "J Seven Real Estate",
+   "area_id": "al-muraikh",
+   "lat": 25.28726,
+   "lng": 51.455,
+   "status": "under_construction",
+   "handover": "2026-11",
+   "units_total": null,
+   "floors": null,
+   "unit_mix": [
+    {
+     "type": "villa",
+     "size_sqm_min": 546,
+     "size_sqm_max": 546,
+     "price_from_qar": 4000758
+    }
+   ],
+   "views": [],
+   "stock": "available",
+   "source": "Property Finder Qatar, new projects",
+   "source_url": "https://www.propertyfinder.qa/en/new-projects/j-seven-real-estate/villa-verde",
+   "as_of": "2026-10-11",
+   "confidence": "medium",
+   "payment_plan_en": "Standard: 10% down payment, 25% on handover, 65% after handover",
+   "payment_plan_ar": "Standard: 10% دفعة أولى, 25% عند التسليم, 65% بعد التسليم"
+  },
+  {
+   "id": "bliss-garden-new-salata",
+   "name_en": "Bliss Gardens New Slata by Capstone Property",
+   "developer": "Capstone Property",
+   "area_id": "al-salata",
+   "lat": 25.26022,
+   "lng": 51.51632,
+   "status": "under_construction",
+   "handover": "2027-10",
+   "units_total": null,
+   "floors": null,
+   "unit_mix": [
+    {
+     "type": "villa",
+     "size_sqm_min": 500,
+     "size_sqm_max": 500,
+     "price_from_qar": 4340000
+    }
+   ],
+   "views": [],
+   "stock": "available",
+   "source": "Property Finder Qatar, new projects",
+   "source_url": "https://www.propertyfinder.qa/en/new-projects/capstone-property/bliss-garden-new-salata",
+   "as_of": "2026-10-11",
+   "confidence": "medium",
+   "payment_plan_en": "Standard: 10% down payment (5 Years Installment)",
+   "payment_plan_ar": "Standard: 10% دفعة أولى (5 Years Installment)"
+  },
+  {
+   "id": "al-nokhba-villas",
+   "name_en": "Al Nokhba Villas",
+   "developer": "Ezdan Real Estate",
+   "area_id": "al-wakra",
+   "lat": 25.16539,
+   "lng": 51.57345,
+   "status": "completed",
+   "handover": "2024-12",
+   "units_total": null,
+   "floors": null,
+   "unit_mix": [
+    {
+     "type": "villa",
+     "size_sqm_min": null,
+     "size_sqm_max": null,
+     "price_from_qar": 2000000
+    }
+   ],
+   "views": [],
+   "stock": "available",
+   "source": "Property Finder Qatar, new projects",
+   "source_url": "https://www.propertyfinder.qa/en/new-projects/ezdan-real-estate/al-nokhba-villas",
+   "as_of": "2026-10-11",
+   "confidence": "low",
+   "payment_plan_en": "Standard: 100% down payment",
+   "payment_plan_ar": "Standard: 100% دفعة أولى"
+  },
+  {
+   "id": "hayat-al-wakrah",
+   "name_en": "Hayat Al Wakrah",
+   "developer": "Ezdan Real Estate",
+   "area_id": "al-wukair",
+   "lat": 25.12878,
+   "lng": 51.56747,
+   "status": "completed",
+   "handover": "2024-12",
+   "units_total": null,
+   "floors": null,
+   "unit_mix": [
+    {
+     "type": "2br",
+     "size_sqm_min": null,
+     "size_sqm_max": null,
+     "price_from_qar": 800000
+    },
+    {
+     "type": "villa",
+     "size_sqm_min": null,
+     "size_sqm_max": null,
+     "price_from_qar": 1600000
+    }
+   ],
+   "views": [],
+   "stock": "available",
+   "source": "Property Finder Qatar, new projects",
+   "source_url": "https://www.propertyfinder.qa/en/new-projects/ezdan-real-estate/hayat-al-wakrah",
+   "as_of": "2026-10-11",
+   "confidence": "low",
+   "payment_plan_en": "Standard: 100% down payment",
+   "payment_plan_ar": "Standard: 100% دفعة أولى"
+  },
+  {
+   "id": "south-garden",
+   "name_en": "South Garden",
+   "developer": "Aqar for you",
+   "area_id": "al-wukair",
+   "lat": 25.15883,
+   "lng": 51.55148,
+   "status": "under_construction",
+   "handover": "2028-08",
+   "units_total": null,
+   "floors": null,
+   "unit_mix": [
+    {
+     "type": "villa",
+     "size_sqm_min": 277,
+     "size_sqm_max": 300,
+     "price_from_qar": 2400000
+    }
+   ],
+   "views": [],
+   "stock": "available",
+   "source": "Property Finder Qatar, new projects",
+   "source_url": "https://www.propertyfinder.qa/en/new-projects/aqar-for-you/south-garden",
+   "as_of": "2026-10-11",
+   "confidence": "medium",
+   "payment_plan_en": "Standard: 65% during construction (Paid in scheduled installments over 3 years until handover( Including the 10% booking fee)), 35% after handover (Paid in scheduled installments over 3 years after handover)",
+   "payment_plan_ar": "Standard: 65% أثناء البناء (Paid in scheduled installments over 3 years until handover( Including the 10% booking fee)), 35% بعد التسليم (Paid in scheduled installments over 3 years after handover)"
+  },
+  {
+   "id": "south-maison",
+   "name_en": "South Maison",
+   "developer": "J Seven Real Estate",
+   "area_id": "al-wukair",
+   "lat": 25.15022,
+   "lng": 51.5483,
+   "status": "off_plan",
+   "handover": "2027-03",
+   "units_total": null,
+   "floors": null,
+   "unit_mix": [
+    {
+     "type": "villa",
+     "size_sqm_min": 526,
+     "size_sqm_max": 609,
+     "price_from_qar": 4200000
+    }
+   ],
+   "views": [],
+   "stock": "available",
+   "source": "Property Finder Qatar, new projects",
+   "source_url": "https://www.propertyfinder.qa/en/new-projects/j-seven-real-estate/south-maison",
+   "as_of": "2026-10-11",
+   "confidence": "medium",
+   "payment_plan_en": "Standard: 10% down payment, 25% during construction, 65% on handover",
+   "payment_plan_ar": "Standard: 10% دفعة أولى, 25% أثناء البناء, 65% عند التسليم"
+  },
+  {
+   "id": "bliss-residences-1-by-capstone-property",
+   "name_en": "Bliss Residences 1 by Capstone Property",
+   "developer": "Capstone Property",
+   "area_id": "jabal-thuaileb",
+   "lat": 25.42052,
+   "lng": 51.5043,
+   "status": "completed",
+   "handover": "2026-05",
+   "units_total": null,
+   "floors": null,
+   "unit_mix": [
+    {
+     "type": "1br",
+     "size_sqm_min": null,
+     "size_sqm_max": null,
+     "price_from_qar": 1498000
+    },
+    {
+     "type": "2br",
+     "size_sqm_min": null,
+     "size_sqm_max": null,
+     "price_from_qar": 1527000
+    },
+    {
+     "type": "3br",
+     "size_sqm_min": null,
+     "size_sqm_max": null,
+     "price_from_qar": 1933500
+    }
+   ],
+   "views": [],
+   "stock": "available",
+   "source": "Property Finder Qatar, new projects",
+   "source_url": "https://www.propertyfinder.qa/en/new-projects/capstone-property/bliss-residences-1-by-capstone-property",
+   "as_of": "2026-10-11",
+   "confidence": "low",
+   "payment_plan_en": "Standard: 5% down payment (5 Years installment)",
+   "payment_plan_ar": "Standard: 5% دفعة أولى (5 Years installment)"
+  },
+  {
+   "id": "bliss-residences-2-by-capstone-property",
+   "name_en": "Bliss Residences 2 by Capstone Property",
+   "developer": "Capstone Property",
+   "area_id": "jabal-thuaileb",
+   "lat": 25.42052,
+   "lng": 51.5043,
+   "status": "completed",
+   "handover": "2026-05",
+   "units_total": null,
+   "floors": null,
+   "unit_mix": [
+    {
+     "type": "2br",
+     "size_sqm_min": 132,
+     "size_sqm_max": 132,
+     "price_from_qar": 1440000
+    },
+    {
+     "type": "3br",
+     "size_sqm_min": 162,
+     "size_sqm_max": 162,
+     "price_from_qar": 1770000
+    }
+   ],
+   "views": [],
+   "stock": "available",
+   "source": "Property Finder Qatar, new projects",
+   "source_url": "https://www.propertyfinder.qa/en/new-projects/capstone-property/bliss-residences-2-by-capstone-property",
+   "as_of": "2026-10-11",
+   "confidence": "medium",
+   "payment_plan_en": "Standard: 15% down payment (5 Years Installment)",
+   "payment_plan_ar": "Standard: 15% دفعة أولى (5 Years Installment)"
+  },
+  {
+   "id": "le-mirage-vida",
+   "name_en": "Le Mirage Vida",
+   "developer": "Le Mirage Real Estate",
+   "area_id": "jabal-thuaileb",
+   "lat": 25.40861,
+   "lng": 51.50271,
+   "status": "completed",
+   "handover": "2025-12",
+   "units_total": null,
+   "floors": null,
+   "unit_mix": [
+    {
+     "type": "1br",
+     "size_sqm_min": 86,
+     "size_sqm_max": 86,
+     "price_from_qar": 1143810
+    },
+    {
+     "type": "2br",
+     "size_sqm_min": 91,
+     "size_sqm_max": 91,
+     "price_from_qar": 1685614
+    }
+   ],
+   "views": [],
+   "stock": "available",
+   "source": "Property Finder Qatar, new projects",
+   "source_url": "https://www.propertyfinder.qa/en/new-projects/le-mirage-real-estate/le-mirage-vida",
+   "as_of": "2026-10-11",
+   "confidence": "medium",
+   "payment_plan_en": "Standard: 8% down payment, 92% on handover",
+   "payment_plan_ar": "Standard: 8% دفعة أولى, 92% عند التسليم"
+  },
+  {
+   "id": "a-05-lusail-energy-city",
+   "name_en": "A-05 - Lusail Energy City",
+   "developer": "Lusail Real Estate Development Company",
+   "area_id": "lusail",
+   "lat": 25.40163,
+   "lng": 51.50528,
+   "status": "under_construction",
+   "handover": "2026-12",
+   "units_total": null,
+   "floors": null,
+   "unit_mix": [
+    {
+     "type": "1br",
+     "size_sqm_min": 90,
+     "size_sqm_max": 90,
+     "price_from_qar": 1100000
+    },
+    {
+     "type": "2br",
+     "size_sqm_min": 137,
+     "size_sqm_max": 137,
+     "price_from_qar": null
+    }
+   ],
+   "views": [],
+   "stock": "might_be_sold_out",
+   "source": "Property Finder Qatar, new projects",
+   "source_url": "https://www.propertyfinder.qa/en/new-projects/lusail-real-estate-development-company/a-05-lusail-energy-city",
+   "as_of": "2026-10-11",
+   "confidence": "medium",
+   "payment_plan_en": "Standard: 5% down payment",
+   "payment_plan_ar": "Standard: 5% دفعة أولى"
+  },
+  {
+   "id": "barwa-hills",
+   "name_en": "Barwa Hills",
+   "developer": "Barwa Real Estate",
+   "area_id": "lusail",
+   "lat": 25.42351,
+   "lng": 51.50281,
+   "status": "completed",
+   "handover": "2025-01",
+   "units_total": null,
+   "floors": null,
+   "unit_mix": [
+    {
+     "type": "1br",
+     "size_sqm_min": 80,
+     "size_sqm_max": 82,
+     "price_from_qar": 1000708
+    }
+   ],
+   "views": [],
+   "stock": "might_be_sold_out",
+   "source": "Property Finder Qatar, new projects",
+   "source_url": "https://www.propertyfinder.qa/en/new-projects/barwa-real-estate/barwa-hills",
+   "as_of": "2026-10-11",
+   "confidence": "medium",
+   "payment_plan_en": "Standard: 2% down payment, 98% after handover",
+   "payment_plan_ar": "Standard: 2% دفعة أولى, 98% بعد التسليم"
+  },
+  {
+   "id": "bin-al-sheikh-marina-tower",
+   "name_en": "Bin Al Sheikh Marina Tower",
+   "developer": "Bin Al Sheikh Holding Group",
+   "area_id": "lusail",
+   "lat": 25.4084,
+   "lng": 51.51211,
+   "status": "under_construction",
+   "handover": "2026-10",
+   "units_total": null,
+   "floors": null,
+   "unit_mix": [
+    {
+     "type": "1br",
+     "size_sqm_min": 81,
+     "size_sqm_max": 199,
+     "price_from_qar": null
+    },
+    {
+     "type": "2br",
+     "size_sqm_min": 126,
+     "size_sqm_max": 172,
+     "price_from_qar": 1950000
+    },
+    {
+     "type": "3br",
+     "size_sqm_min": 210,
+     "size_sqm_max": 210,
+     "price_from_qar": 2732590
+    }
+   ],
+   "views": [
+    "marina"
+   ],
+   "stock": "available",
+   "source": "Property Finder Qatar, new projects",
+   "source_url": "https://www.propertyfinder.qa/en/new-projects/bin-al-sheikh-holding-group/bin-al-sheikh-marina-tower",
+   "as_of": "2026-10-11",
+   "confidence": "low",
+   "payment_plan_en": "Option 1: 5% down payment (5 Years Installment) · Option 2: 10% down payment (7 Years Installment)",
+   "payment_plan_ar": "Option 1: 5% دفعة أولى (5 Years Installment) · Option 2: 10% دفعة أولى (7 Years Installment)",
+   "coords_note": "generic"
+  },
+  {
+   "id": "bliss-tower",
+   "name_en": "Bliss Tower Lusail by Capstone Property",
+   "developer": "Capstone Property",
+   "area_id": "lusail",
+   "lat": 25.42715,
+   "lng": 51.51301,
+   "status": "under_construction",
+   "handover": "2028-11",
+   "units_total": null,
+   "floors": null,
+   "unit_mix": [
+    {
+     "type": "1br",
+     "size_sqm_min": 84,
+     "size_sqm_max": 121,
+     "price_from_qar": 1384000
+    },
+    {
+     "type": "2br",
+     "size_sqm_min": 176,
+     "size_sqm_max": 182,
+     "price_from_qar": 1760000
+    },
+    {
+     "type": "duplex",
+     "size_sqm_min": 313,
+     "size_sqm_max": 313,
+     "price_from_qar": 4632000
+    }
+   ],
+   "views": [],
+   "stock": "available",
+   "source": "Property Finder Qatar, new projects",
+   "source_url": "https://www.propertyfinder.qa/en/new-projects/capstone-property/bliss-tower",
+   "as_of": "2026-10-11",
+   "confidence": "medium",
+   "payment_plan_en": "Standard: 5% down payment (6 Years Installment)",
+   "payment_plan_ar": "Standard: 5% دفعة أولى (6 Years Installment)"
+  },
+  {
+   "id": "bliss-villas-huzoom-lusail",
+   "name_en": "Bliss Villas Huzoom Lusail",
+   "developer": "Capstone Property",
+   "area_id": "lusail",
+   "lat": 25.4084,
+   "lng": 51.51211,
+   "status": "under_construction",
+   "handover": "2027-10",
+   "units_total": null,
+   "floors": null,
+   "unit_mix": [
+    {
+     "type": "villa",
+     "size_sqm_min": 400,
+     "size_sqm_max": 400,
+     "price_from_qar": 4900000
+    }
+   ],
+   "views": [],
+   "stock": "available",
+   "source": "Property Finder Qatar, new projects",
+   "source_url": "https://www.propertyfinder.qa/en/new-projects/capstone-property/bliss-villas-huzoom-lusail",
+   "as_of": "2026-10-11",
+   "confidence": "low",
+   "payment_plan_en": "Standard: 10% down payment (5 Years Installment)",
+   "payment_plan_ar": "Standard: 10% دفعة أولى (5 Years Installment)",
+   "coords_note": "generic"
+  },
+  {
+   "id": "blossom-residential-building",
+   "name_en": "Blossom Residential Building",
+   "developer": "Mart Real Estate",
+   "area_id": "lusail",
+   "lat": 25.42782,
+   "lng": 51.50852,
+   "status": "off_plan",
+   "handover": null,
+   "units_total": null,
+   "floors": null,
+   "unit_mix": [
+    {
+     "type": "1br",
+     "size_sqm_min": 110,
+     "size_sqm_max": 111,
+     "price_from_qar": 1324875
+    },
+    {
+     "type": "2br",
+     "size_sqm_min": 131,
+     "size_sqm_max": 148,
+     "price_from_qar": null
+    }
+   ],
+   "views": [],
+   "stock": "might_be_sold_out",
+   "source": "Property Finder Qatar, new projects",
+   "source_url": "https://www.propertyfinder.qa/en/new-projects/mart-real-estate/blossom-residential-building",
+   "as_of": "2026-10-11",
+   "confidence": "medium",
+   "payment_plan_en": "Standard: 9% down payment, 11% during construction, 20% on handover, 60% after handover",
+   "payment_plan_ar": "Standard: 9% دفعة أولى, 11% أثناء البناء, 20% عند التسليم, 60% بعد التسليم"
+  },
+  {
+   "id": "cview-residence",
+   "name_en": "C View Residence",
+   "developer": "Lusail Real Estate Development Company",
+   "area_id": "lusail",
+   "lat": 25.40608,
+   "lng": 51.5221,
+   "status": "completed",
+   "handover": "2025-05",
+   "units_total": null,
+   "floors": null,
+   "unit_mix": [
+    {
+     "type": "1br",
+     "size_sqm_min": 96,
+     "size_sqm_max": 141,
+     "price_from_qar": 1800000
+    },
+    {
+     "type": "2br",
+     "size_sqm_min": 134,
+     "size_sqm_max": 190,
+     "price_from_qar": null
+    },
+    {
+     "type": "3br",
+     "size_sqm_min": 246,
+     "size_sqm_max": 246,
+     "price_from_qar": null
+    }
+   ],
+   "views": [],
+   "stock": "might_be_sold_out",
+   "source": "Property Finder Qatar, new projects",
+   "source_url": "https://www.propertyfinder.qa/en/new-projects/lusail-real-estate-development-company/cview-residence",
+   "as_of": "2026-10-11",
+   "confidence": "medium"
+  },
+  {
+   "id": "energy-city-qatar-1-by-al-wifaq",
+   "name_en": "Energy City Qatar 1 by Al Wifaq",
+   "developer": "Al Wefaq",
+   "area_id": "lusail",
+   "lat": 25.40163,
+   "lng": 51.50528,
+   "status": "under_construction",
+   "handover": "2026-11",
+   "units_total": null,
+   "floors": null,
+   "unit_mix": [
+    {
+     "type": "1br",
+     "size_sqm_min": 90,
+     "size_sqm_max": 90,
+     "price_from_qar": 1069737
+    },
+    {
+     "type": "2br",
+     "size_sqm_min": 137,
+     "size_sqm_max": 137,
+     "price_from_qar": 1691677
+    }
+   ],
+   "views": [],
+   "stock": "might_be_sold_out",
+   "source": "Property Finder Qatar, new projects",
+   "source_url": "https://www.propertyfinder.qa/en/new-projects/al-wifaq/energy-city-qatar-1-by-al-wifaq",
+   "as_of": "2026-10-11",
+   "confidence": "medium",
+   "payment_plan_en": "Standard: 5% down payment, 75% during construction, 20% after handover",
+   "payment_plan_ar": "Standard: 5% دفعة أولى, 75% أثناء البناء, 20% بعد التسليم"
+  },
+  {
+   "id": "huzoom-villas",
+   "name_en": "Huzoom Villas",
+   "developer": "Lusail Real Estate Development Company",
+   "area_id": "lusail",
+   "lat": 25.45002,
+   "lng": 51.49876,
+   "status": "completed",
+   "handover": "2025-05",
+   "units_total": null,
+   "floors": null,
+   "unit_mix": [
+    {
+     "type": "villa",
+     "size_sqm_min": null,
+     "size_sqm_max": null,
+     "price_from_qar": 4500000
+    }
+   ],
+   "views": [],
+   "stock": "might_be_sold_out",
+   "source": "Property Finder Qatar, new projects",
+   "source_url": "https://www.propertyfinder.qa/en/new-projects/lusail-real-estate-development-company/huzoom-villas",
+   "as_of": "2026-10-11",
+   "confidence": "low"
+  },
+  {
+   "id": "la-mer-tower",
+   "name_en": "La Mer Tower",
+   "developer": "TAAMEER Development",
+   "area_id": "lusail",
+   "lat": 25.43332,
+   "lng": 51.52047,
+   "status": "off_plan",
+   "handover": null,
+   "units_total": null,
+   "floors": null,
+   "unit_mix": [
+    {
+     "type": "1br",
+     "size_sqm_min": 85,
+     "size_sqm_max": 85,
+     "price_from_qar": 895633
+    },
+    {
+     "type": "2br",
+     "size_sqm_min": 149,
+     "size_sqm_max": 213,
+     "price_from_qar": null
+    },
+    {
+     "type": "3br",
+     "size_sqm_min": 200,
+     "size_sqm_max": 200,
+     "price_from_qar": 3002123
+    },
+    {
+     "type": "duplex",
+     "size_sqm_min": 217,
+     "size_sqm_max": 261,
+     "price_from_qar": null
+    },
+    {
+     "type": "duplex",
+     "size_sqm_min": 379,
+     "size_sqm_max": 379,
+     "price_from_qar": 3259226
+    },
+    {
+     "type": "duplex",
+     "size_sqm_min": 2126,
+     "size_sqm_max": 2126,
+     "price_from_qar": null
+    }
+   ],
+   "views": [],
+   "stock": "might_be_sold_out",
+   "source": "Property Finder Qatar, new projects",
+   "source_url": "https://www.propertyfinder.qa/en/new-projects/taameer-real-estate/la-mer-tower",
+   "as_of": "2026-10-11",
+   "confidence": "medium"
+  },
+  {
+   "id": "lusail-marina-heights",
+   "name_en": "Lusail Marina Heights",
+   "developer": "Shelter Group",
+   "area_id": "lusail",
+   "lat": 25.3976,
+   "lng": 51.52126,
+   "status": "under_construction",
+   "handover": "2027-12",
+   "units_total": null,
+   "floors": null,
+   "unit_mix": [
+    {
+     "type": "1br",
+     "size_sqm_min": 92,
+     "size_sqm_max": 271,
+     "price_from_qar": 1292000
+    },
+    {
+     "type": "2br",
+     "size_sqm_min": 137,
+     "size_sqm_max": 516,
+     "price_from_qar": null
+    },
+    {
+     "type": "3br",
+     "size_sqm_min": 209,
+     "size_sqm_max": 210,
+     "price_from_qar": null
+    }
+   ],
+   "views": [
+    "marina"
+   ],
+   "stock": "might_be_sold_out",
+   "source": "Property Finder Qatar, new projects",
+   "source_url": "https://www.propertyfinder.qa/en/new-projects/shelter-group/lusail-marina-heights",
+   "as_of": "2026-10-11",
+   "confidence": "medium",
+   "payment_plan_en": "Standard: 5% down payment, 32% during construction, 20% on handover, 43% after handover",
+   "payment_plan_ar": "Standard: 5% دفعة أولى, 32% أثناء البناء, 20% عند التسليم, 43% بعد التسليم"
+  },
+  {
+   "id": "m002",
+   "name_en": "M002",
+   "developer": "Lusail Real Estate Development Company",
+   "area_id": "lusail",
+   "lat": 25.38577,
+   "lng": 51.527,
+   "status": "completed",
+   "handover": "2024-03",
+   "units_total": null,
+   "floors": null,
+   "unit_mix": [
+    {
+     "type": "2br",
+     "size_sqm_min": 165,
+     "size_sqm_max": 184,
+     "price_from_qar": 2400000
+    }
+   ],
+   "views": [],
+   "stock": "might_be_sold_out",
+   "source": "Property Finder Qatar, new projects",
+   "source_url": "https://www.propertyfinder.qa/en/new-projects/lusail-real-estate-development-company/m002",
+   "as_of": "2026-10-11",
+   "confidence": "medium",
+   "payment_plan_en": "Standard: 5% down payment (in 7 years installment,  5% Year End Payment, 20% on Handover)",
+   "payment_plan_ar": "Standard: 5% دفعة أولى (in 7 years installment,  5% Year End Payment, 20% on Handover)"
+  },
+  {
+   "id": "m21-murano",
+   "name_en": "M21 Murano",
+   "developer": "Lusail Real Estate Development Company",
+   "area_id": "lusail",
+   "lat": 25.38577,
+   "lng": 51.527,
+   "status": "off_plan",
+   "handover": null,
+   "units_total": null,
+   "floors": 21,
+   "unit_mix": [
+    {
+     "type": "2br",
+     "size_sqm_min": 91,
+     "size_sqm_max": 123,
+     "price_from_qar": 1949999
+    }
+   ],
+   "views": [],
+   "stock": "might_be_sold_out",
+   "source": "Property Finder Qatar, new projects",
+   "source_url": "https://www.propertyfinder.qa/en/new-projects/lusail-real-estate-development-company/m21-murano",
+   "as_of": "2026-10-11",
+   "confidence": "medium",
+   "payment_plan_en": "Standard: 20% down payment, 80% after handover",
+   "payment_plan_ar": "Standard: 20% دفعة أولى, 80% بعد التسليم"
+  },
+  {
+   "id": "marina-07",
+   "name_en": "Marina 07",
+   "developer": "Al Wefaq",
+   "area_id": "lusail",
+   "lat": 25.39519,
+   "lng": 51.52213,
+   "status": "completed",
+   "handover": "2025-09",
+   "units_total": 190,
+   "floors": 19,
+   "unit_mix": [
+    {
+     "type": "1br",
+     "size_sqm_min": 101,
+     "size_sqm_max": 108,
+     "price_from_qar": 1144369
+    },
+    {
+     "type": "2br",
+     "size_sqm_min": 146,
+     "size_sqm_max": 163,
+     "price_from_qar": null
+    }
+   ],
+   "views": [
+    "marina"
+   ],
+   "stock": "might_be_sold_out",
+   "source": "Property Finder Qatar, new projects",
+   "source_url": "https://www.propertyfinder.qa/en/new-projects/al-wifaq/marina-07",
+   "as_of": "2026-10-11",
+   "confidence": "medium",
+   "payment_plan_en": "Standard: 5% down payment, 95% on handover",
+   "payment_plan_ar": "Standard: 5% دفعة أولى, 95% عند التسليم"
+  },
+  {
+   "id": "marina-22",
+   "name_en": "Marina 22",
+   "developer": "Al Madar Real Estate",
+   "area_id": "lusail",
+   "lat": 25.38508,
+   "lng": 51.52659,
+   "status": "under_construction",
+   "handover": "2028-06",
+   "units_total": 170,
+   "floors": null,
+   "unit_mix": [
+    {
+     "type": "1br",
+     "size_sqm_min": 75,
+     "size_sqm_max": 75,
+     "price_from_qar": 1247000
+    },
+    {
+     "type": "2br",
+     "size_sqm_min": 121,
+     "size_sqm_max": 121,
+     "price_from_qar": 2160000
+    }
+   ],
+   "views": [
+    "marina"
+   ],
+   "stock": "available",
+   "source": "Property Finder Qatar, new projects",
+   "source_url": "https://www.propertyfinder.qa/en/new-projects/al-madar-holding-w-l-l/marina-22",
+   "as_of": "2026-10-11",
+   "confidence": "medium"
+  },
+  {
+   "id": "marina-23",
+   "name_en": "Marina 23",
+   "developer": "Lusail Real Estate Development Company",
+   "area_id": "lusail",
+   "lat": 25.39721,
+   "lng": 51.51954,
+   "status": "completed",
+   "handover": "2025-08",
+   "units_total": null,
+   "floors": null,
+   "unit_mix": [
+    {
+     "type": "1br",
+     "size_sqm_min": 75,
+     "size_sqm_max": 124,
+     "price_from_qar": 1150000
+    },
+    {
+     "type": "2br",
+     "size_sqm_min": 113,
+     "size_sqm_max": 157,
+     "price_from_qar": 1750000
+    },
+    {
+     "type": "3br",
+     "size_sqm_min": 210,
+     "size_sqm_max": 210,
+     "price_from_qar": 2500000
+    }
+   ],
+   "views": [
+    "marina"
+   ],
+   "stock": "might_be_sold_out",
+   "source": "Property Finder Qatar, new projects",
+   "source_url": "https://www.propertyfinder.qa/en/new-projects/lusail-real-estate-development-company/marina-23",
+   "as_of": "2026-10-11",
+   "confidence": "medium",
+   "payment_plan_en": "option 2: 5% down payment (6 years installment) · option 3: 10% down payment (5 years installment)",
+   "payment_plan_ar": "option 2: 5% دفعة أولى (6 years installment) · option 3: 10% دفعة أولى (5 years installment)"
+  },
+  {
+   "id": "miran-by-mazaya",
+   "name_en": "Miran by Mazaya",
+   "developer": "Mazaya Real Estate",
+   "area_id": "lusail",
+   "lat": 25.4084,
+   "lng": 51.51211,
+   "status": "under_construction",
+   "handover": "2028-04",
+   "units_total": null,
+   "floors": null,
+   "unit_mix": [
+    {
+     "type": "2br",
+     "size_sqm_min": 98,
+     "size_sqm_max": 138,
+     "price_from_qar": 1500000
+    }
+   ],
+   "views": [],
+   "stock": "available",
+   "source": "Property Finder Qatar, new projects",
+   "source_url": "https://www.propertyfinder.qa/en/new-projects/mazaya-real-estate/miran-by-mazaya",
+   "as_of": "2026-10-11",
+   "confidence": "low",
+   "payment_plan_en": "Standard: 60% during construction (7 Years Installment), 40% on handover",
+   "payment_plan_ar": "Standard: 60% أثناء البناء (7 Years Installment), 40% عند التسليم",
+   "coords_note": "generic"
+  },
+  {
+   "id": "rawah-residence",
+   "name_en": "Rawah Residence",
+   "developer": "R.H.S.A.",
+   "area_id": "lusail",
+   "lat": 25.43255,
+   "lng": 51.50997,
+   "status": "under_construction",
+   "handover": "2027-12",
+   "units_total": null,
+   "floors": null,
+   "unit_mix": [
+    {
+     "type": "1br",
+     "size_sqm_min": 89,
+     "size_sqm_max": 92,
+     "price_from_qar": 1561163
+    },
+    {
+     "type": "2br",
+     "size_sqm_min": 140,
+     "size_sqm_max": 156,
+     "price_from_qar": null
+    }
+   ],
+   "views": [],
+   "stock": "might_be_sold_out",
+   "source": "Property Finder Qatar, new projects",
+   "source_url": "https://www.propertyfinder.qa/en/new-projects/r-h-s-a/rawah-residence",
+   "as_of": "2026-10-11",
+   "confidence": "medium",
+   "payment_plan_en": "Standard: 2% down payment, 27% during construction, 23% on handover, 48% after handover",
+   "payment_plan_ar": "Standard: 2% دفعة أولى, 27% أثناء البناء, 23% عند التسليم, 48% بعد التسليم"
+  },
+  {
+   "id": "seef-waterfront",
+   "name_en": "Seef Waterfront",
+   "developer": "TAAMEER Development",
+   "area_id": "lusail",
+   "lat": 25.42432,
+   "lng": 51.51002,
+   "status": "off_plan",
+   "handover": null,
+   "units_total": null,
+   "floors": null,
+   "unit_mix": [
+    {
+     "type": "2br",
+     "size_sqm_min": 173,
+     "size_sqm_max": 173,
+     "price_from_qar": 2773552
+    }
+   ],
+   "views": [
+    "sea"
+   ],
+   "stock": "might_be_sold_out",
+   "source": "Property Finder Qatar, new projects",
+   "source_url": "https://www.propertyfinder.qa/en/new-projects/taameer-real-estate/seef-waterfront",
+   "as_of": "2026-10-11",
+   "confidence": "medium"
+  },
+  {
+   "id": "the-44-tower",
+   "name_en": "The 44 Tower",
+   "developer": "SK properties",
+   "area_id": "lusail",
+   "lat": 25.4084,
+   "lng": 51.51211,
+   "status": "under_construction",
+   "handover": "2028-12",
+   "units_total": null,
+   "floors": 20,
+   "unit_mix": [
+    {
+     "type": "1br",
+     "size_sqm_min": 91,
+     "size_sqm_max": 209,
+     "price_from_qar": null
+    },
+    {
+     "type": "2br",
+     "size_sqm_min": 119,
+     "size_sqm_max": 119,
+     "price_from_qar": null
+    }
+   ],
+   "views": [],
+   "stock": "might_be_sold_out",
+   "source": "Property Finder Qatar, new projects",
+   "source_url": "https://www.propertyfinder.qa/en/new-projects/sk-properties/the-44-tower",
+   "as_of": "2026-10-11",
+   "confidence": "low",
+   "payment_plan_en": "Standard: 5% down payment (Installment years from 7 up to 8)",
+   "payment_plan_ar": "Standard: 5% دفعة أولى (Installment years from 7 up to 8)",
+   "coords_note": "generic"
+  },
+  {
+   "id": "the-gate",
+   "name_en": "The Gate",
+   "developer": "MK Residence",
+   "area_id": "lusail",
+   "lat": 25.4084,
+   "lng": 51.51211,
+   "status": "under_construction",
+   "handover": "2027-01",
+   "units_total": null,
+   "floors": null,
+   "unit_mix": [
+    {
+     "type": "1br",
+     "size_sqm_min": 100,
+     "size_sqm_max": 100,
+     "price_from_qar": 1192528
+    },
+    {
+     "type": "2br",
+     "size_sqm_min": 188,
+     "size_sqm_max": 188,
+     "price_from_qar": null
+    }
+   ],
+   "views": [],
+   "stock": "might_be_sold_out",
+   "source": "Property Finder Qatar, new projects",
+   "source_url": "https://www.propertyfinder.qa/en/new-projects/mk-residence/the-gate",
+   "as_of": "2026-10-11",
+   "confidence": "low",
+   "payment_plan_en": "Standard: 10% down payment, 20% during construction, 70% on handover",
+   "payment_plan_ar": "Standard: 10% دفعة أولى, 20% أثناء البناء, 70% عند التسليم",
+   "coords_note": "generic"
+  },
+  {
+   "id": "thirty-five",
+   "name_en": "Thirty Five Waterfront",
+   "developer": "Capstone Property",
+   "area_id": "lusail",
+   "lat": 25.4084,
+   "lng": 51.51211,
+   "status": "under_construction",
+   "handover": "2027-06",
+   "units_total": null,
+   "floors": null,
+   "unit_mix": [
+    {
+     "type": "2br",
+     "size_sqm_min": 106,
+     "size_sqm_max": 133,
+     "price_from_qar": null
+    },
+    {
+     "type": "2br",
+     "size_sqm_min": null,
+     "size_sqm_max": null,
+     "price_from_qar": 1790000
+    }
+   ],
+   "views": [
+    "sea"
+   ],
+   "stock": "available",
+   "source": "Property Finder Qatar, new projects",
+   "source_url": "https://www.propertyfinder.qa/en/new-projects/capstone-property/thirty-five",
+   "as_of": "2026-10-11",
+   "confidence": "low",
+   "payment_plan_en": "Standard: 5% down payment (4 years Post handover)",
+   "payment_plan_ar": "Standard: 5% دفعة أولى (4 years Post handover)",
+   "coords_note": "generic"
+  },
+  {
+   "id": "vera-city-view",
+   "name_en": "Vera City View",
+   "developer": "Mazaya Real Estate",
+   "area_id": "lusail",
+   "lat": 25.42964,
+   "lng": 51.50793,
+   "status": "under_construction",
+   "handover": "2026-12",
+   "units_total": null,
+   "floors": 14,
+   "unit_mix": [
+    {
+     "type": "1br",
+     "size_sqm_min": 96,
+     "size_sqm_max": 96,
+     "price_from_qar": 1097680
+    },
+    {
+     "type": "2br",
+     "size_sqm_min": 108,
+     "size_sqm_max": 132,
+     "price_from_qar": null
+    },
+    {
+     "type": "penthouse",
+     "size_sqm_min": 108,
+     "size_sqm_max": 130,
+     "price_from_qar": null
+    }
+   ],
+   "views": [],
+   "stock": "sold_out",
+   "source": "Property Finder Qatar, new projects",
+   "source_url": "https://www.propertyfinder.qa/en/new-projects/mazaya-real-estate/vera-city-view",
+   "as_of": "2026-10-11",
+   "confidence": "medium",
+   "payment_plan_en": "Standard: 20% down payment, 40% during construction, 10% on handover, 30% after handover",
+   "payment_plan_ar": "Standard: 20% دفعة أولى, 40% أثناء البناء, 10% عند التسليم, 30% بعد التسليم"
+  },
+  {
+   "id": "voya-waterfront",
+   "name_en": "Voya Waterfront",
+   "developer": "Mazaya Real Estate",
+   "area_id": "lusail",
+   "lat": 25.43773,
+   "lng": 51.52143,
+   "status": "under_construction",
+   "handover": "2026-12",
+   "units_total": null,
+   "floors": null,
+   "unit_mix": [
+    {
+     "type": "1br",
+     "size_sqm_min": null,
+     "size_sqm_max": null,
+     "price_from_qar": 1450000
+    }
+   ],
+   "views": [
+    "sea"
+   ],
+   "stock": "available",
+   "source": "Property Finder Qatar, new projects",
+   "source_url": "https://www.propertyfinder.qa/en/new-projects/mazaya-real-estate/voya-waterfront",
+   "as_of": "2026-10-11",
+   "confidence": "low",
+   "payment_plan_en": "Standard: 60% during construction (2 Years Installment), 40% on handover",
+   "payment_plan_ar": "Standard: 60% أثناء البناء (2 Years Installment), 40% عند التسليم"
+  },
+  {
+   "id": "canal-bay",
+   "name_en": "Canal Bay",
+   "developer": "TAAMEER Development",
+   "area_id": "qetaifan-islands",
+   "lat": 25.41618,
+   "lng": 51.51799,
+   "status": "under_construction",
+   "handover": "2028-07",
+   "units_total": null,
+   "floors": null,
+   "unit_mix": [
+    {
+     "type": "1br",
+     "size_sqm_min": 67,
+     "size_sqm_max": 67,
+     "price_from_qar": null
+    },
+    {
+     "type": "1br",
+     "size_sqm_min": null,
+     "size_sqm_max": null,
+     "price_from_qar": 2450000
+    }
+   ],
+   "views": [
+    "sea",
+    "canal"
+   ],
+   "stock": "might_be_sold_out",
+   "source": "Property Finder Qatar, new projects",
+   "source_url": "https://www.propertyfinder.qa/en/new-projects/taameer-development/canal-bay",
+   "as_of": "2026-10-11",
+   "confidence": "low",
+   "payment_plan_en": "Standard: 40% down payment, 60% after handover",
+   "payment_plan_ar": "Standard: 40% دفعة أولى, 60% بعد التسليم",
+   "coords_note": "generic"
+  },
+  {
+   "id": "carlton-house",
+   "name_en": "Carlton House",
+   "developer": "TAAMEER Development",
+   "area_id": "qetaifan-islands",
+   "lat": 25.43296,
+   "lng": 51.52415,
+   "status": "off_plan",
+   "handover": null,
+   "units_total": null,
+   "floors": null,
+   "unit_mix": [
+    {
+     "type": "1br",
+     "size_sqm_min": null,
+     "size_sqm_max": null,
+     "price_from_qar": 1800000
+    }
+   ],
+   "views": [],
+   "stock": "might_be_sold_out",
+   "source": "Property Finder Qatar, new projects",
+   "source_url": "https://www.propertyfinder.qa/en/new-projects/taameer-real-estate/carlton-house",
+   "as_of": "2026-10-11",
+   "confidence": "low"
+  },
+  {
+   "id": "lhorizon",
+   "name_en": "L'Horizon",
+   "developer": "Dar Global",
+   "area_id": "qetaifan-islands",
+   "lat": 25.41618,
+   "lng": 51.51799,
+   "status": "under_construction",
+   "handover": "2027-12",
+   "units_total": null,
+   "floors": null,
+   "unit_mix": [
+    {
+     "type": "2br",
+     "size_sqm_min": 95,
+     "size_sqm_max": 235,
+     "price_from_qar": 2478173
+    }
+   ],
+   "views": [
+    "sea"
+   ],
+   "stock": "might_be_sold_out",
+   "source": "Property Finder Qatar, new projects",
+   "source_url": "https://www.propertyfinder.qa/en/new-projects/dar-global/lhorizon",
+   "as_of": "2026-10-11",
+   "confidence": "low",
+   "payment_plan_en": "Standard: 20% down payment, 60% during construction, 20% on handover",
+   "payment_plan_ar": "Standard: 20% دفعة أولى, 60% أثناء البناء, 20% عند التسليم",
+   "coords_note": "generic"
+  },
+  {
+   "id": "les-vagues-by-elie-saab",
+   "name_en": "Les Vagues by Elie Saab",
+   "developer": "Dar Al Arkan",
+   "area_id": "qetaifan-islands",
+   "lat": 25.42663,
+   "lng": 51.52493,
+   "status": "under_construction",
+   "handover": "2026-12",
+   "units_total": null,
+   "floors": null,
+   "unit_mix": [
+    {
+     "type": "1br",
+     "size_sqm_min": 81,
+     "size_sqm_max": 126,
+     "price_from_qar": 1990000
+    },
+    {
+     "type": "2br",
+     "size_sqm_min": 124,
+     "size_sqm_max": 137,
+     "price_from_qar": null
+    },
+    {
+     "type": "3br",
+     "size_sqm_min": 177,
+     "size_sqm_max": 257,
+     "price_from_qar": null
+    }
+   ],
+   "views": [
+    "sea"
+   ],
+   "stock": "might_be_sold_out",
+   "source": "Property Finder Qatar, new projects",
+   "source_url": "https://www.propertyfinder.qa/en/new-projects/dar-al-arkan/les-vagues-by-elie-saab",
+   "as_of": "2026-10-11",
+   "confidence": "medium",
+   "payment_plan_en": "Standard: 20% down payment, 70% during construction, 10% on handover",
+   "payment_plan_ar": "Standard: 20% دفعة أولى, 70% أثناء البناء, 10% عند التسليم"
+  },
+  {
+   "id": "sea-la-vie",
+   "name_en": "Sea La Vie",
+   "developer": "Dar Global",
+   "area_id": "qetaifan-islands",
+   "lat": 25.41618,
+   "lng": 51.51799,
+   "status": "under_construction",
+   "handover": "2030-12",
+   "units_total": null,
+   "floors": null,
+   "unit_mix": [
+    {
+     "type": "1br",
+     "size_sqm_min": 89,
+     "size_sqm_max": 253,
+     "price_from_qar": 1800000
+    }
+   ],
+   "views": [
+    "sea"
+   ],
+   "stock": "might_be_sold_out",
+   "source": "Property Finder Qatar, new projects",
+   "source_url": "https://www.propertyfinder.qa/en/new-projects/dar-global/sea-la-vie",
+   "as_of": "2026-10-11",
+   "confidence": "low",
+   "payment_plan_en": "Option 1: 10% down payment, 20% during construction, 70% on handover · Option 2: 5% down payment, 35% during construction, 60% on handover · Option 3: 10% down payment, 40% during construction, 50% on handover",
+   "payment_plan_ar": "Option 1: 10% دفعة أولى, 20% أثناء البناء, 70% عند التسليم · Option 2: 5% دفعة أولى, 35% أثناء البناء, 60% عند التسليم · Option 3: 10% دفعة أولى, 40% أثناء البناء, 50% عند التسليم",
+   "coords_note": "generic"
+  },
+  {
+   "id": "the-weekend",
+   "name_en": "The Weekend",
+   "developer": "Dar Al Arkan",
+   "area_id": "qetaifan-islands",
+   "lat": 25.41618,
+   "lng": 51.51799,
+   "status": "under_construction",
+   "handover": "2027-12",
+   "units_total": null,
+   "floors": null,
+   "unit_mix": [
+    {
+     "type": "1br",
+     "size_sqm_min": 80,
+     "size_sqm_max": 150,
+     "price_from_qar": 1999999
+    },
+    {
+     "type": "2br",
+     "size_sqm_min": 136,
+     "size_sqm_max": 137,
+     "price_from_qar": null
+    }
+   ],
+   "views": [],
+   "stock": "might_be_sold_out",
+   "source": "Property Finder Qatar, new projects",
+   "source_url": "https://www.propertyfinder.qa/en/new-projects/dar-al-arkan/the-weekend",
+   "as_of": "2026-10-11",
+   "confidence": "low",
+   "payment_plan_en": "Standard: 20% down payment, 70% during construction, 10% on handover",
+   "payment_plan_ar": "Standard: 20% دفعة أولى, 70% أثناء البناء, 10% عند التسليم",
+   "coords_note": "generic"
+  },
+  {
+   "id": "the-weekend-02-by-elie-saab",
+   "name_en": "The Weekend 02 by Elie Saab",
+   "developer": "Dar Global",
+   "area_id": "qetaifan-islands",
+   "lat": 25.41618,
+   "lng": 51.51799,
+   "status": "under_construction",
+   "handover": "2027-12",
+   "units_total": null,
+   "floors": null,
+   "unit_mix": [
+    {
+     "type": "2br",
+     "size_sqm_min": 89,
+     "size_sqm_max": 166,
+     "price_from_qar": 2103408
+    }
+   ],
+   "views": [],
+   "stock": "might_be_sold_out",
+   "source": "Property Finder Qatar, new projects",
+   "source_url": "https://www.propertyfinder.qa/en/new-projects/dar-global/the-weekend-02-by-elie-saab",
+   "as_of": "2026-10-11",
+   "confidence": "low",
+   "payment_plan_en": "Standard: 20% down payment, 60% during construction, 20% on handover",
+   "payment_plan_ar": "Standard: 20% دفعة أولى, 60% أثناء البناء, 20% عند التسليم",
+   "coords_note": "generic"
+  },
+  {
+   "id": "via-doro",
+   "name_en": "Via D'oro",
+   "developer": "Mazaya Real Estate",
+   "area_id": "qetaifan-islands",
+   "lat": 25.41618,
+   "lng": 51.51799,
+   "status": "under_construction",
+   "handover": "2028-03",
+   "units_total": null,
+   "floors": null,
+   "unit_mix": [
+    {
+     "type": "villa",
+     "size_sqm_min": null,
+     "size_sqm_max": null,
+     "price_from_qar": 4250000
+    }
+   ],
+   "views": [],
+   "stock": "available",
+   "source": "Property Finder Qatar, new projects",
+   "source_url": "https://www.propertyfinder.qa/en/new-projects/mazaya-real-estate/via-doro",
+   "as_of": "2026-10-11",
+   "confidence": "low",
+   "payment_plan_en": "Standard: 60% during construction (5 Years Installment), 40% on handover",
+   "payment_plan_ar": "Standard: 60% أثناء البناء (5 Years Installment), 40% عند التسليم",
+   "coords_note": "generic"
+  },
+  {
+   "id": "simaisma",
+   "name_en": "Simaisma",
+   "developer": "Qatari Diar",
+   "area_id": "simaisma",
+   "lat": 25.578,
+   "lng": 51.483,
+   "status": "under_construction",
+   "handover": "2030-12",
+   "units_total": null,
+   "floors": null,
+   "unit_mix": [],
+   "views": [],
+   "stock": "might_be_sold_out",
+   "source": "Property Finder Qatar, new projects",
+   "source_url": "https://www.propertyfinder.qa/en/new-projects/qatari-diar/simaisma",
+   "as_of": "2026-10-11",
+   "confidence": "low",
+   "payment_plan_en": "Standard: 10% down payment (Installment Years from 3 up to 5 years)",
+   "payment_plan_ar": "Standard: 10% دفعة أولى (Installment Years from 3 up to 5 years)"
+  }
+ ]
+}

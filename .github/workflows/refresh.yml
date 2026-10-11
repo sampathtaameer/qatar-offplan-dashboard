@@ -1,0 +1,65 @@
+name: Refresh data and deploy
+
+on:
+  schedule:
+    - cron: '0 4 * * 0'   # Sundays 07:00 Doha (UTC+3)
+  workflow_dispatch:
+    inputs:
+      full:
+        description: 'Also refresh OpenStreetMap places and noise geometry'
+        type: boolean
+        default: false
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: refresh-and-pages
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    # Pushes only redeploy; the data refresh runs on the schedule or when started by hand.
+    if: github.event_name != 'push'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Refresh and validate
+        run: |
+          FULL=""
+          if [ "${{ inputs.full }}" = "true" ] || [ "$(date -u +%d)" -le 7 ]; then FULL="--full"; fi
+          python -I tools/refresh.py . $FULL
+      - name: Commit changes
+        run: |
+          git config user.name "data-refresh-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data tools/moj_urls.txt tools/moj_all_urls.txt
+          if git diff --cached --quiet; then echo "No changes"; exit 0; fi
+          SUMMARY=$(python -I -c "import json;c=json.load(open('data/changes.json',encoding='utf-8'))['records'];print('; '.join(i['text_en'] for i in c[0]['items'])[:300] if c else 'refresh')")
+          git commit -m "Data refresh $(date -u +%F)" -m "$SUMMARY"
+          git push
+
+  deploy:
+    needs: refresh
+    if: always() && (needs.refresh.result == 'success' || needs.refresh.result == 'skipped')
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: .
+      - id: deployment
+        uses: actions/deploy-pages@v4
