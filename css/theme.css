@@ -66,7 +66,8 @@ h1 { font-size: 26px; } h2 { font-size: 19px; } h3 { font-size: 16px; }
 .topbar { position: sticky; top: 0; z-index: 1000; display: flex; flex-wrap: wrap; align-items: center; gap: 12px 20px;
   padding: 10px 20px; background: var(--header-bg); color: var(--header-ink); }
 .brand { display: flex; align-items: center; gap: 10px; color: inherit; text-decoration: none; }
-.brand-mark { display: grid; place-items: center; width: 34px; height: 34px; border-radius: 8px; background: var(--blue); font-weight: 700; }
+/* Taameer logo is black artwork on transparent; render it white on the navy header. */
+.brand-logo { height: 34px; width: auto; filter: brightness(0) invert(1); padding-inline-end: 12px; border-inline-end: 1px solid rgba(255,255,255,.25); }
 .brand-text { display: flex; flex-direction: column; line-height: 1.15; }
 .brand-text small { opacity: .75; font-size: 12px; }
 .mainnav { display: flex; gap: 4px; flex-wrap: wrap; flex: 1; }

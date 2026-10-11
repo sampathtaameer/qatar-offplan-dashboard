@@ -47,12 +47,13 @@ function renderFreshness() {
 }
 
 function initToggles() {
-  // Theme: auto (follows the OS) → light → dark. Charts and maps read CSS colours when drawn, so re-render on change.
+  // Theme: dark (default) → light → auto (follows the OS). Charts and maps read CSS colours when drawn, so re-render on change.
   const themeBtn = document.getElementById('themeToggle');
-  const THEMES = ['auto', 'light', 'dark'];
+  const THEMES = ['dark', 'light', 'auto'];
   const ICONS = { auto: '◐', light: '☀', dark: '☾' };
-  let theme = 'auto';
-  try { theme = localStorage.getItem('theme') || 'auto'; } catch { /* ignore */ }
+  let theme = 'dark';
+  try { theme = localStorage.getItem('theme') || 'dark'; } catch { /* ignore */ }
+  if (!THEMES.includes(theme)) theme = 'dark';
   const applyTheme = () => {
     if (theme === 'auto') delete document.documentElement.dataset.theme;
     else document.documentElement.dataset.theme = theme;

@@ -10,8 +10,12 @@
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css">
   <link rel="stylesheet" href="css/theme.css">
   <script>
-    // Apply the saved theme before first paint to avoid a light flash.
-    try { const t = localStorage.getItem('theme'); if (t === 'light' || t === 'dark') document.documentElement.dataset.theme = t; } catch (e) { /* storage unavailable */ }
+    // Apply the saved theme before first paint to avoid a light flash. Dark is the default.
+    (function () {
+      var t = 'dark';
+      try { t = localStorage.getItem('theme') || 'dark'; } catch (e) { /* storage unavailable */ }
+      if (t === 'light' || t === 'dark') document.documentElement.dataset.theme = t;
+    })();
   </script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.min.js"></script>
@@ -20,7 +24,7 @@
 <body>
   <header class="topbar">
     <a class="brand" href="#/overview">
-      <span class="brand-mark" aria-hidden="true">T</span>
+      <img class="brand-logo" src="assets/taameer-logo.png" alt="Taameer" width="660" height="253">
       <span class="brand-text"><strong data-i18n="app.title">Qatar Off-Plan</strong><small data-i18n="app.subtitle">Market dashboard</small></span>
     </a>
     <nav class="mainnav" aria-label="Main">
@@ -31,7 +35,7 @@
       <a href="#/residency" data-i18n="nav.residency">Residency</a>
     </nav>
     <div class="toggles">
-      <button id="themeToggle" class="btn ghost icon" type="button"></button>
+      <button id="themeToggle" class="btn ghost icon" type="button">☾</button>
       <button id="langToggle" class="btn ghost" type="button" aria-label="Switch language">عربي</button>
       <label class="switch" title="Analyst mode">
         <input id="analystToggle" type="checkbox">
