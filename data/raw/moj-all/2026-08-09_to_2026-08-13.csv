@@ -1,0 +1,91 @@
+﻿No;Encrypted Transaction Number;Encrypted Parcel Number;Registration Date;Municipality Name;District Name;Property Type ;Property Type Municipality;Area Square Meters;Share Area;Price Per Square Foot;Price Per Square Meter;Number Of Shares (2400);Share Value;Property Value
+1;TN293C2F5BE9766F40;PNB448F6C96386;09/08/2026;Al Khor and Al Thakhira Municipality;Al Thakhira;Residence;Private Residential - Buildings;460;460;465;5000;2,400;2,300,000;2,300,000
+2;TN29406DE6EBC15440;PN10D3B2503BAF9;12/08/2026;Al Khor and Al Thakhira Municipality;Al Thakhira;Empty Land;Private Residential - Buildings;554;554;335;3610;2,400;2,000,000;2,000,000
+3;TN2943080E6EAF3F20;PNAEDA45DFBB8A;13/08/2026;Al Khor and Al Thakhira Municipality;Al Khor;Empty Land;Investment Residential - Buildings;665;665;488;5248;2,400;3,490,000;3,490,000
+4;TN292EF6B0FBB7CC80;PN121A9C98F04B;11/08/2026;Doha Municipality;Madinat Khalifa South;Residence;Private Residential - Buildings;596;79;617;6644;320;527,970;3,959,776
+5;TN292EF6B0FBB7CC80;PN62D2C6EC544;11/08/2026;Doha Municipality;Old Airport;Residential Building;Investment Residential - Buildings;579;77;445;4794;320;370,120;2,775,899
+6;TN292EF6B0FBB7CC80;PN4475903CF21;11/08/2026;Doha Municipality;Fereej Bin Mahmoud 23;Residence;Investment Residential - Buildings;537;72;1644;17691;320;1,266,667;9,500,000
+7;TN293CD783B6020680;PN8969303A9A;09/08/2026;Doha Municipality;Fereej Abdel Aziz;Empty Land;Investment Residential - Buildings;267;267;967;10411;2,400;2,779,846;2,779,846
+8;TN293CE0234A57F400;PN10DD5E40420C3;09/08/2026;Doha Municipality;Umm Lekhba;Empty Land;Private Residential - Buildings;602;602;477;5135;2,400;3,091,133;3,091,133
+9;TN293CE0234A57F400;PN10DD5FF3CC949;09/08/2026;Doha Municipality;Umm Lekhba;Empty Land;Private Residential - Buildings;602;602;463;4983;2,400;3,000,000;3,000,000
+10;TN293CEF3A8DEE53A0;PNA09F3B4463C;09/08/2026;Doha Municipality;Hazm Al Markhiya;Residence;Private Residential - Buildings;887;887;429;4622;2,400;4,100,000;4,100,000
+11;TN293D70943EF73E20;PN28E14D06FF2;10/08/2026;Doha Municipality;Madinat Khalifa South;Empty Land;Investment Residential - Buildings;421;421;705;7587;2,400;3,194,000;3,194,000
+12;TN293E391277C51000;PN11E869688CE7;10/08/2026;Doha Municipality;Old Airport;Residence;Private Residential - Buildings;375;375;507;5460;2,400;2,047,444;2,047,444
+13;TN293F2636E7001340;PN461B8F15D89;11/08/2026;Doha Municipality;Old Airport;Residential Building;Investment Residential - Buildings;579;579;674;7254;2,400;4,200,000;4,200,000
+14;TN293F2CAE96408560;PN474AC0E153F9;11/08/2026;Doha Municipality;Al Thumama 46;Residence;Private Residential - Buildings;464;464;721;7759;2,400;3,600,000;3,600,000
+15;TN293F6B3389AF7F40;PN1592E2BFE553;11/08/2026;Doha Municipality;Hazm Al Markhiya;Residence;Private Residential - Buildings;1,225;268;520;5598;525;1,500,000;6,857,144
+16;TN293F9201A5322C00;PN10DD4D3BA6CC0;11/08/2026;Doha Municipality;Umm Lekhba;Empty Land;Private Residential - Buildings;596;596;432;4649;2,400;2,771,000;2,771,000
+17;TN293F9201A5322C00;PN10DD4B880603D;11/08/2026;Doha Municipality;Umm Lekhba;Empty Land;Private Residential - Buildings;596;596;432;4649;2,400;2,771,000;2,771,000
+18;TN294040A120FE3560;PN10DD2464C8570;12/08/2026;Doha Municipality;Umm Lekhba;Empty Land;Private Residential - Buildings;600;600;460;4951;2,400;2,970,864;2,970,864
+19;TN2941CF75AD845DC0;PN1E2FB8A48A0C;13/08/2026;Doha Municipality;Legtaifiya;Residence;Private Residential - Buildings;1,225;1225;607;6531;2,400;8,000,000;8,000,000
+20;TN294236F0A18B7FC0;PN7AE2D39887F;13/08/2026;Doha Municipality;Nuaija 43;Residence;Private Residential - Buildings;508;508;385;4141;2,400;2,103,450;2,103,450
+21;TN2942596EF2E335C0;PN6BF8457983B;13/08/2026;Doha Municipality;Umm Ghuwailina;Residential Building;Investment Residential - Buildings;134;134;1835;19746;2,400;2,646,018;2,646,018
+22;TN2942A0937AA81D20;PN1CD2FBBABE00;13/08/2026;Doha Municipality;Al Hilal;Residence;Private Residential - Buildings;520;520;717;7720;2,400;4,014,577;4,014,577
+23;TN294321ED2BB107A0;PNB819877410B;13/08/2026;Doha Municipality;Madinat Khalifa South;Residence;Private Residential - Buildings;583;526;476;5128;2,165;2,696,740;2,989,579
+24;TN29432864DAF179C0;PN9B676D33FF9;13/08/2026;Doha Municipality;Al Sadd 39;Empty Land;Investment Residential - Buildings;652;652;997;10736;2,400;7,000,000;7,000,000
+25;TN29432A8CC006F520;PN1198C0BF5856;13/08/2026;Doha Municipality;Barahat Al Jufairi;Shops;Mix- use Commercial Lands;200;200;2626;28264;2,400;5,652,858;5,652,858
+26;TN2926B1A83B508A40;PNF8F9848D540D;10/08/2026;Al Rayyan Municipality;Al Waab;Residential Building and Shops; Mix- use Commercial Lands ;1,205;1205;2018;21719;2,400;26,171,718;26,171,718
+27;TN292EF6B0FBB7CC80;PN90F97F7DE9A;11/08/2026;Al Rayyan Municipality;Al Aziziya;Residence;Private Residential - Buildings;882;118;507;5460;320;642,078;4,815,588
+28;TN292EF6B0FBB7CC80;PN910201A1D29;11/08/2026;Al Rayyan Municipality;Al Aziziya;Residence;Private Residential - Buildings;882;118;507;5460;320;642,078;4,815,588
+29;TN292EF6B0FBB7CC80;PN90FB31BB002;11/08/2026;Al Rayyan Municipality;Al Aziziya;Empty Land;Private Residential - Buildings;900;120;340;3660;320;439,182;3,293,865
+30;TN292EF6B0FBB7CC80;PN91004E28DAB;11/08/2026;Al Rayyan Municipality;Al Aziziya;Residence;Private Residential - Buildings;900;120;507;5460;320;655,182;4,913,865
+31;TN293C5CA1B4398E20;PNA79F16958FB;09/08/2026;Al Rayyan Municipality;Al Gharrafa;Residence;Private Residential - Buildings;790;790;397;4272;2,400;3,375,000;3,375,000
+32;TN293C6BB8F7CFEDC0;PN41CC6D921913;09/08/2026;Al Rayyan Municipality;Ain Khaled;Residence;Private Residential - Buildings;631;631;567;6106;2,400;3,852,703;3,852,703
+33;TN293C8C0F64122860;PND5ECECF5FE5;09/08/2026;Al Rayyan Municipality;Al Aziziya;Residence;Private Residential - Buildings;594;594;203;2189;2,400;1,300,000;1,300,000
+34;TN293D3EFEAA092880;PNFBA4A08D7474;10/08/2026;Al Rayyan Municipality;Gharrafat Al Rayyan;Residence;Private Residential - Buildings;592;592;671;7221;2,400;4,275,000;4,275,000
+35;TN293D97625A79EAE0;PN10C555015025E;10/08/2026;Al Rayyan Municipality;Luaib;Empty Land;Private Residential - Buildings;798;798;290;3122;2,400;2,491,000;2,491,000
+36;TN293D998A3F8F6640;PNF890724BFA6;10/08/2026;Al Rayyan Municipality;Muaither 55;Empty Land;Private Residential - Buildings;4,811;4811;290;3118;2,400;15,000,000;15,000,000
+37;TN293E0DF492176C80;PNF598D97FBC41;11/08/2026;Al Rayyan Municipality;Ain Khaled;Residence;Private Residential - Buildings;567;567;410;4409;2,400;2,500,000;2,500,000
+38;TN293E34C2AD9A1940;PN17EEC3F8A0CD;11/08/2026;Al Rayyan Municipality;Fereej Al Murra;Residence;Private Residential - Buildings;753;753;467;5029;2,400;3,787,048;3,787,048
+39;TN293E6208785D3820;PN1C8D88B9AF04;10/08/2026;Al Rayyan Municipality;Mebaireek;Residence;Private Residential - Buildings;1,196;1196;209;2246;2,400;2,685,660;2,685,660
+40;TN293F8B89F5F1B9E0;PN104E7B1ACC5EE;11/08/2026;Al Rayyan Municipality;Al Aziziya;Empty Land;Private Residential - Buildings;395;198;706;7595;1,200;1,500,000;3,000,000
+41;TN293FC16F550AC640;PNF808366D6C0;12/08/2026;Al Rayyan Municipality;Muaither 55;Residence;Private Residential - Buildings;930;930;210;2260;2,400;2,101,850;2,101,850
+42;TN293FD4D662CC1CA0;PN10B9CE4CBE1A4;12/08/2026;Al Rayyan Municipality;Al Waab;Empty Land;Private Residential - Buildings;560;560;290;3125;2,400;1,750,000;1,750,000
+43;TN293FD4D662CC1CA0;PN10B9D0005EE27;12/08/2026;Al Rayyan Municipality;Al Waab;Empty Land;Private Residential - Buildings;560;560;290;3125;2,400;1,750,000;1,750,000
+44;TN293FD4D662CC1CA0;PN10B9CC991D521;12/08/2026;Al Rayyan Municipality;Al Waab;Empty Land;Private Residential - Buildings;560;560;290;3125;2,400;1,750,000;1,750,000
+45;TN293FD4D662CC1CA0;PN10B9D1B3FFAAA;12/08/2026;Al Rayyan Municipality;Al Waab;Empty Land;Private Residential - Buildings;560;560;290;3125;2,400;1,750,000;1,750,000
+46;TN293FD4D662CC1CA0;PN10B9C5CA9A315;12/08/2026;Al Rayyan Municipality;Al Waab;Empty Land;Private Residential - Buildings;560;560;290;3125;2,400;1,750,000;1,750,000
+47;TN293FD4D662CC1CA0;PN10B9C77E3AF98;12/08/2026;Al Rayyan Municipality;Al Waab;Empty Land;Private Residential - Buildings;560;560;290;3125;2,400;1,750,000;1,750,000
+48;TN293FD4D662CC1CA0;PN10B9C931DBC1B;12/08/2026;Al Rayyan Municipality;Al Waab;Empty Land;Private Residential - Buildings;560;560;290;3125;2,400;1,750,000;1,750,000
+49;TN293FD4D662CC1CA0;PN10B9CAE57C89E;12/08/2026;Al Rayyan Municipality;Al Waab;Empty Land;Private Residential - Buildings;560;560;290;3125;2,400;1,750,000;1,750,000
+50;TN294161830A3CC9A0;PN38CE626B041D;12/08/2026;Al Rayyan Municipality;Al Aziziya;Residence;Private Residential - Buildings;546;546;493;5311;2,400;2,900,000;2,900,000
+51;TN29416A229E92B720;PN3A496E7DB3B1;12/08/2026;Al Rayyan Municipality;Al Gharrafa;Empty Land;Private Residential - Buildings;441;441;421;4535;2,400;2,000,000;2,000,000
+52;TN29427125CACF82E0;PN343CCDEE5D06;13/08/2026;Al Rayyan Municipality;Ain Khaled;Residence;Private Residential - Buildings;1,100;1100;247;2659;2,400;2,925,000;2,925,000
+53;TN29427BED443AEBC0;PNF809EEBA0A9;13/08/2026;Al Rayyan Municipality;Muaither 55;Residence;Private Residential - Buildings;930;930;699;7527;2,400;7,000,000;7,000,000
+54;TN294252F743A2C3A0;PNFDB53555142C;13/08/2026;Al Sheehaniya Municipality;Al Sheehaniya;Residence;Private Residential - Buildings;521;261;255;2749;1,200;716,049;1,432,098
+55;TN29426CD600A48C20;PNFDB5508E8BE2;13/08/2026;Al Sheehaniya Municipality;Al Sheehaniya;Residence;Private Residential - Buildings;515;258;255;2749;1,200;707,803;1,415,605
+56;TN293E34C2AD9A1940;PNC1E0ABBF84AF;11/08/2026;Al Daayen Municipality;Umm Garn;Residence;Private Residential - Buildings;560;560;442;4760;2,400;2,665,695;2,665,695
+57;TN293EA08D6BCC3200;PN109E8F26C525E;11/08/2026;Al Daayen Municipality;Al Sakhama;Residence;Private Residential - Buildings;629;629;442;4760;2,400;2,994,147;2,994,147
+58;TN2941E504A05B2F80;PNFB368CB40918;13/08/2026;Al Daayen Municipality;Umm Garn;Empty Land;Private Residential - Buildings;499;499;360;3875;2,400;1,933,645;1,933,645
+59;TN2943332C545CE2A0;PN10051A579D476;13/08/2026;Al Daayen Municipality;Umm Garn;Empty Land;Private Residential - Buildings;500;500;275;2960;2,400;1,480,085;1,480,085
+60;TN293C4712C162BC60;PN106DD94B925AD;09/08/2026;Al Wakra Municipality;Al Wakra;Empty Land;Private Residential - Buildings;645;645;300;3229;2,400;2,082,834;2,082,834
+61;TN293C5EC9994F0980;PN106E02225A183;09/08/2026;Al Wakra Municipality;Al Wakra;Empty Land;Private Residential - Buildings;600;600;300;3229;2,400;1,937,520;1,937,520
+62;TN293CD9AB9B1781E0;PN59B741AC2A86;09/08/2026;Al Wakra Municipality;Al Wukair;Empty Land;Private Residential - Buildings;767;767;220;2368;2,400;1,816,300;1,816,300
+63;TN293CDBD3802CFD40;PN10D86DE626054;09/08/2026;Al Wakra Municipality;Al Wukair;Empty Land;Private Residential - Buildings;448;448;220;2368;2,400;1,060,899;1,060,899
+64;TN293CDDFB654278A0;PN10D8892049FE9;09/08/2026;Al Wakra Municipality;Al Wukair;Empty Land;Private Residential - Buildings;448;448;240;2583;2,400;1,157,000;1,157,000
+65;TN293CE4731482EAC0;PN10D8DACE3FD38;09/08/2026;Al Wakra Municipality;Al Wukair;Empty Land;Private Residential - Buildings;420;420;235;2530;2,400;1,062,407;1,062,407
+66;TN293E2C2319442BC0;PN10D86DE631C39;10/08/2026;Al Wakra Municipality;Al Wukair;Empty Land;Private Residential - Buildings;448;448;230;2475;2,400;1,109,000;1,109,000
+67;TN293E5FE09347BCC0;PN53D52B753387;10/08/2026;Al Wakra Municipality;Al Wakra;Residence;Private Residential - Buildings;236;236;413;4449;2,400;1,050,000;1,050,000
+68;TN293F851246B147C0;PN10D8A2A721BB6;11/08/2026;Al Wakra Municipality;Al Wukair;Empty Land;Private Residential - Buildings;537;537;221;2382;2,400;1,279,000;1,279,000
+69;TN293F873A2BC6C320;PN49F9ECADB8A;11/08/2026;Al Wakra Municipality;Al Wakra;Residence;Private Residential - Buildings;526;526;417;4491;2,400;2,362,303;2,362,303
+70;TN293F8FD9C01CB0A0;PN10D87301085DD;11/08/2026;Al Wakra Municipality;Al Wukair;Empty Land;Private Residential - Buildings;448;448;220;2368;2,400;1,060,899;1,060,899
+71;TN294044F0EB292C20;PN576308723178;12/08/2026;Al Wakra Municipality;Al Wukair;Residence;Private Residential - Buildings;470;470;415;4468;2,400;2,100,000;2,100,000
+72;TN294113E6D3377020;PN10D89A249164A;12/08/2026;Al Wakra Municipality;Al Wukair;Empty Land;Private Residential - Buildings;448;448;240;2579;2,400;1,155,275;1,155,275
+73;TN294113E6D3377020;PN10D89870F11DD;12/08/2026;Al Wakra Municipality;Al Wukair;Empty Land;Private Residential - Buildings;448;448;240;2583;2,400;1,157,345;1,157,345
+74;TN294113E6D3377020;PN10D896BD5055A;12/08/2026;Al Wakra Municipality;Al Wukair;Empty Land;Private Residential - Buildings;448;448;240;2583;2,400;1,157,345;1,157,345
+75;TN294113E6D3377020;PN10D893560EC54;12/08/2026;Al Wakra Municipality;Al Wukair;Empty Land;Private Residential - Buildings;448;448;240;2583;2,400;1,157,345;1,157,345
+76;TN294113E6D3377020;PN10D891A26DFD1;12/08/2026;Al Wakra Municipality;Al Wukair;Empty Land;Private Residential - Buildings;448;448;240;2583;2,400;1,157,345;1,157,345
+77;TN294113E6D3377020;PN10D89509AF8D7;12/08/2026;Al Wakra Municipality;Al Wukair;Empty Land;Private Residential - Buildings;448;448;240;2583;2,400;1,157,345;1,157,345
+78;TN29415D334011D2E0;PNFEBCC16478D4;12/08/2026;Al Wakra Municipality;Al Wakra;Residence;Private Residential - Buildings;633;633;558;6003;2,400;3,800,000;3,800,000
+79;TN2941D81541DA4B40;PN5C7B0BA29607;13/08/2026;Al Wakra Municipality;Al Wukair;Residence;Private Residential - Buildings;420;420;376;4048;2,400;1,700,000;1,700,000
+80;TN2943241510C68300;PN5ADEEC23445E;13/08/2026;Al Wakra Municipality;Muaither Al Wukair;Empty Land;Private Residential - Buildings;1,000;1000;232;2500;2,400;2,500,000;2,500,000
+81;TN294331046F476740;PN10C7DF0AA5030;13/08/2026;Al Wakra Municipality;Al Wukair;Empty Land;Private Residential - Buildings;750;750;254;2733;2,400;2,050,000;2,050,000
+82;TN293A5FDA846BD1A0;PN41AE544A0BA3;12/08/2026;Umm Slal Municipality;Umm Slal Ali;Residence;Private Residential - Buildings;493;493;471;5071;2,400;2,500,000;2,500,000
+83;TN293BA112D9ECA080;PN3C9EB7E19529;09/08/2026;Umm Slal Municipality;Umm Slal Ali;Residence;Private Residential - Buildings;450;450;209;2247;2,400;1,011,096;1,011,096
+84;TN293BC169462EDB20;PN105A222419459;09/08/2026;Umm Slal Municipality;Umm Ebairiya;Residence;Private Residential - Buildings;613;613;546;5873;2,400;3,600,000;3,600,000
+85;TN293C1E1CC0CA9440;PNE9684DBF2DBA;09/08/2026;Umm Slal Municipality;Al Kharaitiyat;Empty Land;Commercial;912;912;845;9101;2,400;8,300,000;8,300,000
+86;TN293DA6799E104A80;PN116AEA1C275F;10/08/2026;Umm Slal Municipality;Al Kharaitiyat;Empty Land;Private Residential - Buildings;650;650;800;8611;2,400;5,597,424;5,597,424
+87;TN293EEE29A2D18B80;PN10D3FB7C54044;11/08/2026;Umm Slal Municipality;Umm Slal Ali;Empty Land;Private Residential - Buildings;618;618;280;3014;2,400;1,862,602;1,862,602
+88;TN29406BBF06ABD8E0;PN10D3F9C8B3167;13/08/2026;Umm Slal Municipality;Umm Slal Ali;Empty Land;Private Residential - Buildings;618;618;280;3013;2,400;1,862,000;1,862,000
+89;TN2942C0E9E6EA57C0;PN46DC5C9A96EF;13/08/2026;Umm Slal Municipality;Al Kharaitiyat;Residence;Private Residential - Buildings;1,700;1700;956;10294;2,400;17,500,000;17,500,000
+Total;;;;;;;;59,512;;;;193,330;266,137,894;304,243,032

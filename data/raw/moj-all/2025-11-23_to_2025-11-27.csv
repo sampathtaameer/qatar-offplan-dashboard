@@ -1,0 +1,56 @@
+﻿No;Reference Transaction Number;Reference Parcel Number;Registration Date;Municipality Name;District Name;Property Type;Area Square Meters;Price Per Square Meter;Property Value
+1;TNA440DB0B77800;FN603325B41;25/11/2025;Doha Municipality;Ghar Thuaileb;Residential Unit;96;1,265,000;1,265,000
+2;TNA440DB0B77800;FN603DD0710;25/11/2025;Doha Municipality;Ghar Thuaileb;Residential Unit;158;1,720,000;1,720,000
+3;TNA40B526567400;FN58C06363C;23/11/2025;Doha Municipality;The Pearl Island;Residential Unit;177;2,784,604;2,784,604
+4;TNA45184163D8C0;FNABDAABE5;26/11/2025;Doha Municipality;The Pearl Island;Residential Unit;175;2,550,000;2,550,000
+5;TNA42A782BA1DC0;FN8FC2F29A;23/11/2025;Doha Municipality;The Pearl Island;Residential Unit;344;3,400,000;3,400,000
+6;TNA43281A241000;FN86BF27BE;24/11/2025;Doha Municipality;The Pearl Island;Residential Unit;82;1,100,000;1,100,000
+7;TNA3DAA6D262B40;FN2AE5B525;26/11/2025;Doha Municipality;Legtaifiya;Residential Unit;82;871,956;871,956
+8;TNA44E34606C0C0;FN25F2D0AB;27/11/2025;Doha Municipality;Legtaifiya;Residential Unit;77;1,000,000;1,000,000
+9;TNA44B10D168200;FN1188723B;27/11/2025;Doha Municipality;The Pearl Island;Residential Unit;157;1,700,000;1,700,000
+10;TNA3D00FEA47680;FN58008EC78;23/11/2025;Doha Municipality;The Pearl Island;Residential Unit;183;2,600,000;2,600,000
+11;TNA44A5761A24C0;FN7EF9C108;26/11/2025;Doha Municipality;The Pearl Island;Residential Unit;86;1,350,000;1,350,000
+12;TNA43C32F3C8E40;FN683DB451;24/11/2025;Doha Municipality;The Pearl Island;Residential Unit;85;1,350,000;1,350,000
+13;TNA4411006D4980;FN600C0595B;26/11/2025;Doha Municipality;Ghar Thuaileb;Residential Unit;104;1,320,000;1,320,000
+14;TNA3F409EEFE340;FN65FAE852B;25/11/2025;Al Rayyan Municipality;Al Gharrafa;Residential Unit;566;4,525,000;4,525,000
+15;TNA41A9A39C0AC0;FN636D3EB81;25/11/2025;Al Daayen Municipality;Lusail 69;Residential Unit;89;1,445,000;1,445,000
+16;TNA3E8D414CBA00;FN636DF845C;27/11/2025;Al Daayen Municipality;Lusail 69;Residential Unit;71;900,000;900,000
+17;TNA32451C7031C0;FNA2CF2CD0;27/11/2025;Al Daayen Municipality;Ghar Thuaileb;Residential Unit;179;3,812,730;3,812,730
+18;TNA329B34E778C0;FN61210EAFE;25/11/2025;Al Daayen Municipality;Al Kharayej;Residential Unit;112;1,725,000;1,725,000
+19;TNA329BC2307100;FN61209E769;25/11/2025;Al Daayen Municipality;Al Kharayej;Residential Unit;111;1,725,000;1,725,000
+20;TNA1A5D26A6E580;FN33217EB22;26/11/2025;Al Daayen Municipality;Lusail 69;Residential Unit;74;2,208,600;2,208,600
+21;TNA1B0957957380;FN363134103;23/11/2025;Al Daayen Municipality;Lusail 69;Residential Unit;125;1,125,000;1,125,000
+22;TNA3F685B75B540;FN36312592E;26/11/2025;Al Daayen Municipality;Lusail 69;Residential Unit;190;1,744,833;1,744,833
+23;TNA34F4384F8100;FN271792AB4;25/11/2025;Al Daayen Municipality;Lusail 69;Residential Unit;79;971,906;971,906
+24;TNA42E6FA81A280;FN3AB4681C5;27/11/2025;Al Daayen Municipality;Lusail 69;Residential Unit;118;3,804,900;3,804,900
+25;TNA3BCC7C4E62C0;FN6131BD3B1;25/11/2025;Al Daayen Municipality;Al Kharayej;Residential Unit;112;1,400,000;1,400,000
+26;TNA4355E8CC8CC0;FN61C79921F;23/11/2025;Al Daayen Municipality;Lusail 69;Residential Unit;68;650,000;650,000
+27;TNA177882218600;FN353B8B98F;23/11/2025;Al Daayen Municipality;Lusail 69;Residential Unit;80;1,327,000;1,327,000
+28;TNA416E961C4800;FN6371CFABC;23/11/2025;Al Daayen Municipality;Lusail 69;Residential Unit;81;1,237,364;1,237,364
+29;TNA4403344D0B40;FN5F398A66C;24/11/2025;Al Daayen Municipality;Lusail 69;Residential Unit;144;1,100,000;1,100,000
+30;TNA355DA1C0B8C0;FN60FDBAE15;25/11/2025;Al Daayen Municipality;Al Kharayej;Residential Unit;112;1,680,000;1,680,000
+31;TNA3E9238DD7440;FN63927B426;23/11/2025;Al Daayen Municipality;Lusail 69;Residential Unit;134;1,502,120;1,502,120
+32;TNA3E9238DD7440;FN63949C034;23/11/2025;Al Daayen Municipality;Lusail 69;Residential Unit;128;1,468,997;1,468,997
+33;TNA3E9238DD7440;FN6397B5822;23/11/2025;Al Daayen Municipality;Lusail 69;Residential Unit;134;1,502,120;1,502,120
+34;TNA3E9238DD7440;FN639BA131F;23/11/2025;Al Daayen Municipality;Lusail 69;Residential Unit;134;1,502,120;1,502,120
+35;TNA3E9238DD7440;FN639F8CC48;23/11/2025;Al Daayen Municipality;Lusail 69;Residential Unit;133;1,502,120;1,502,120
+36;TNA31D513935700;FN638B068E6;23/11/2025;Al Daayen Municipality;Lusail 69;Residential Unit;128;1,468,997;1,468,997
+37;TNA437D18096680;FN6570508EC;23/11/2025;Al Daayen Municipality;Al Sakhama;Residential Unit;417;1,800,000;1,800,000
+38;TNA437BFD777600;FN656FE08DB;23/11/2025;Al Daayen Municipality;Al Sakhama;Residential Unit;416;1,800,000;1,800,000
+39;TNA40EFA68D3E80;FN536438A6F;24/11/2025;Al Wakra Municipality;Al Wukair;Residential Unit;104;825,000;825,000
+40;TNA4005A5B21480;FN5362EA3D4;25/11/2025;Al Wakra Municipality;Al Wukair;Residential Unit;105;825,000;825,000
+41;TNA40F52B66F100;FN5388E396F;23/11/2025;Al Wakra Municipality;Al Wukair;Residential Unit;112;875,000;875,000
+42;TNA40F1DBB11F80;FN536A4207D;26/11/2025;Al Wakra Municipality;Al Wukair;Residential Unit;93;800,000;800,000
+43;TNA40F7608AD200;FN5383F6100;26/11/2025;Al Wakra Municipality;Al Wukair;Residential Unit;94;800,000;800,000
+44;TNA3E6DCC0D73C0;FN537C1F20E;23/11/2025;Al Wakra Municipality;Al Wukair;Residential Unit;94;800,000;800,000
+45;TNA431A4E03D1C0;FN53729889C;26/11/2025;Al Wakra Municipality;Al Wukair;Residential Unit;104;825,000;825,000
+46;TNA40E49CD9D980;FNBBDFB811;26/11/2025;Al Wakra Municipality;Al Meshaf;Residential Unit;376;2,000,000;2,000,000
+47;TNA40E879D8A340;FN53AF367D8;25/11/2025;Al Wakra Municipality;Al Wukair;Residential Unit;288;1,600,000;1,600,000
+48;TNA40F3838C0840;FN537BBEB85;24/11/2025;Al Wakra Municipality;Al Wukair;Residential Unit;104;825,000;825,000
+49;TNA43C9415F3900;FN53BF568F5;25/11/2025;Al Wakra Municipality;Al Wukair;Residential Unit;290;1,600,000;1,600,000
+50;TNA400982B0DE40;FNBBBD01B4;23/11/2025;Al Wakra Municipality;Al Meshaf;Residential Unit;379;2,000,000;2,000,000
+51;TNA4320ED6F74C0;FNBC3A48DA;25/11/2025;Al Wakra Municipality;Al Meshaf;Residential Unit;375;2,000,000;2,000,000
+52;TNA4323AFDC4E00;FN53AAE77DA;27/11/2025;Al Wakra Municipality;Al Wukair;Residential Unit;302;1,600,000;1,600,000
+53;TNA423779DD4300;FN53C261458;27/11/2025;Al Wakra Municipality;Al Wukair;Residential Unit;288;1,600,000;1,600,000
+54;TNA3FFDEBB48100;FN53539AE3D;24/11/2025;Al Wakra Municipality;Al Wukair;Residential Unit;93;800,000;800,000
+;;;;;;;;;86,715,367

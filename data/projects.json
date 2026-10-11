@@ -644,7 +644,9 @@
    "source": "Property Finder Qatar, new projects",
    "source_url": "https://www.propertyfinder.qa/en/new-projects/lusail-real-estate-development-company/huzoom-villas",
    "as_of": "2026-10-11",
-   "confidence": "low"
+   "confidence": "low",
+   "payment_plan_en": "Standard: 2% down payment, 35% on handover, 63% after handover",
+   "payment_plan_ar": "Standard: 2% دفعة أولى, 35% عند التسليم, 63% بعد التسليم"
   },
   {
    "id": "la-mer-tower",
