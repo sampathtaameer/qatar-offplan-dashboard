@@ -7,6 +7,7 @@
   "nav.compare": "Compare",
   "nav.residency": "Residency",
   "toggle.analyst": "Analyst",
+  "theme.label": "Theme", "theme.auto": "Auto (follows your device)", "theme.light": "Light", "theme.dark": "Dark",
   "footer.disclaimer": "Information only, not investment advice. Prices and rents are asking figures unless stated. Verify with the developer, Aqarat and the Ministry of Justice before any transaction.",
   "footer.updated": "Transactions updated",
   "footer.stale": "Needs refresh",

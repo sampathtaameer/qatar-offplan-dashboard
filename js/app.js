@@ -47,10 +47,33 @@ function renderFreshness() {
 }
 
 function initToggles() {
+  // Theme: auto (follows the OS) → light → dark. Charts and maps read CSS colours when drawn, so re-render on change.
+  const themeBtn = document.getElementById('themeToggle');
+  const THEMES = ['auto', 'light', 'dark'];
+  const ICONS = { auto: '◐', light: '☀', dark: '☾' };
+  let theme = 'auto';
+  try { theme = localStorage.getItem('theme') || 'auto'; } catch { /* ignore */ }
+  const applyTheme = () => {
+    if (theme === 'auto') delete document.documentElement.dataset.theme;
+    else document.documentElement.dataset.theme = theme;
+    themeBtn.textContent = ICONS[theme];
+    const label = `${t('theme.label')}: ${t(`theme.${theme}`)}`;
+    themeBtn.title = label;
+    themeBtn.setAttribute('aria-label', label);
+  };
+  applyTheme();
+  themeBtn.addEventListener('click', () => {
+    theme = THEMES[(THEMES.indexOf(theme) + 1) % THEMES.length];
+    store('theme', theme);
+    applyTheme();
+    render();
+  });
+  window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', () => { if (theme === 'auto') render(); });
+
   const langBtn = document.getElementById('langToggle');
   const syncLangBtn = () => { langBtn.textContent = getLang() === 'ar' ? 'English' : 'عربي'; };
   syncLangBtn();
-  langBtn.addEventListener('click', () => { setLang(getLang() === 'ar' ? 'en' : 'ar'); syncLangBtn(); render(); });
+  langBtn.addEventListener('click', () => { setLang(getLang() === 'ar' ? 'en' : 'ar'); syncLangBtn(); applyTheme(); render(); });
 
   const analyst = document.getElementById('analystToggle');
   let on = false;

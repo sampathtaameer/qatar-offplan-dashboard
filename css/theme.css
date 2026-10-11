@@ -156,9 +156,31 @@ body.analyst .analyst-only { display: block; }
 .empty { padding: 24px; text-align: center; color: var(--ink-3); }
 .changes li { margin-bottom: 6px; }
 
-/* Leaflet in dark mode + RTL */
+.btn.icon { min-width: 38px; padding: 6px 10px; font-size: 16px; line-height: 1; }
+
+/* Leaflet: theme-aware popups/controls + RTL */
 .leaflet-container { background: var(--surface-2); font-family: inherit; }
 html[dir="rtl"] .leaflet-container { direction: ltr; }
+.leaflet-popup-content-wrapper, .leaflet-popup-tip, .leaflet-tooltip { background: var(--surface); color: var(--ink); }
+.leaflet-tooltip { border-color: var(--line); }
+.leaflet-bar a, .leaflet-control-attribution { background: var(--surface) !important; color: var(--ink-2) !important; }
+.leaflet-control-attribution a { color: var(--blue); }
+
+/* Dark mode: darken OpenStreetMap tiles (inverted, hues rotated back so water stays blue). */
+:root[data-theme="dark"] .leaflet-tile-pane { filter: invert(1) hue-rotate(180deg) brightness(0.9) contrast(0.9); }
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) .leaflet-tile-pane { filter: invert(1) hue-rotate(180deg) brightness(0.9) contrast(0.9); }
+}
+:root[data-theme="dark"] a { color: #8DB8E8; }
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) a { color: #8DB8E8; } }
+:root[data-theme="dark"] .mainnav a, :root[data-theme="dark"] .brand { color: #DCE6F2; }
+:root[data-theme="dark"] .chip { color: var(--ink); }
+:root[data-theme="dark"] .btn.secondary { color: #8DB8E8; border-color: #8DB8E8; }
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) .mainnav a, :root:not([data-theme="light"]) .brand { color: #DCE6F2; }
+  :root:not([data-theme="light"]) .chip { color: var(--ink); }
+  :root:not([data-theme="light"]) .btn.secondary { color: #8DB8E8; border-color: #8DB8E8; }
+}
 
 @media (max-width: 640px) {
   .topbar { padding: 10px 16px; }
